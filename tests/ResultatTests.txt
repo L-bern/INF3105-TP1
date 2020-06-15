@@ -1,0 +1,164 @@
+-bash-4.2$ ./tp1 testi01.txt
+Il doit y avoir au moins une composante.
+
+--------------------------------------------------------------------------------------------
+-bash-4.2$ ./tp1 testi02.txt
+Il faut une composante apres un essieu.
+
+--------------------------------------------------------------------------------------------
+-bash-4.2$ ./tp1 testi03.txt
+Il devrait y avoir une valeur entiere pour le nombre de dents.
+
+--------------------------------------------------------------------------------------------
+-bash-4.2$ ./tp1 testi04.txt
+Il doit y avoir un minimum de 6 dents.
+
+--------------------------------------------------------------------------------------------
+-bash-4.2$ ./tp1 testi05.txt
+Il devrait y avoir une valeur entiere pour le nombre de sillons.
+
+--------------------------------------------------------------------------------------------
+-bash-4.2$ ./tp1 testi06.txt
+Le nombre de sillon doit etre entre 1 et 4.
+
+--------------------------------------------------------------------------------------------
+-bash-4.2$ ./tp1 testi07.txt
+Le nombre de sillon doit etre entre 1 et 4.
+
+--------------------------------------------------------------------------------------------
+-bash-4.2$ ./tp1 testi08.txt
+Seulement un lien direct peut apparaitre apres une vis.
+
+--------------------------------------------------------------------------------------------
+-bash-4.2$ ./tp1 testi09.txt
+Seulement un engrenage peut apparaitre apres un lien direct.
+
+--------------------------------------------------------------------------------------------
+-bash-4.2$ ./tp1 testi10.txt
+Seulement un engrenage peut apparaitre apres une chaine.
+
+--------------------------------------------------------------------------------------------
+-bash-4.2$ ./tp1 testi11.txt
+Composante invalide.
+
+--------------------------------------------------------------------------------------------
+-bash-4.2$ ./tp1 testi12.txt
+Lien invalide.
+
+--------------------------------------------------------------------------------------------
+-bash-4.2$ ./tp1 testv01.txt
+Quelle est la vitesse de rotation de la première composante ? 1
+Quel est le couple appliqué à la première composante ? 1
+V0 = 1, C0 = 1
+Voulez-vous lancer une autre analyse ? (n pour non, autre pour oui.) n
+
+--------------------------------------------------------------------------------------------
+-bash-4.2$ ./tp1 testv02.txt
+Quelle est la vitesse de rotation de la première composante ? 1
+Quel est le couple appliqué à la première composante ? 1
+V0 = 1, C0 = 1
+Voulez-vous lancer une autre analyse ? (n pour non, autre pour oui.) n
+
+--------------------------------------------------------------------------------------------
+-bash-4.2$ ./tp1 testv03.txt
+Le fichier n'existe pas.
+
+--------------------------------------------------------------------------------------------
+-bash-4.2$ ./tp1 testv05.txt
+Quelle est la vitesse de rotation de la première composante ? 1
+Quel est le couple appliqué à la première composante ? 1
+V0 = 0.8, C0 = 0.8
+V1 = 0.08, C1 = 8
+Voulez-vous lancer une autre analyse ? (n pour non, autre pour oui.) n
+
+--------------------------------------------------------------------------------------------
+-bash-4.2$ ./tp1 testv06.txt
+Quelle est la vitesse de rotation de la première composante ? 1
+Quel est le couple appliqué à la première composante ? 1
+V0 = 0.7, C0 = 0.7
+V1 = 0.14, C1 = 3.5
+Voulez-vous lancer une autre analyse ? (n pour non, autre pour oui.) n
+
+--------------------------------------------------------------------------------------------
+-bash-4.2$ ./tp1 testv07.txt
+Quelle est la vitesse de rotation de la première composante ? 1
+Quel est le couple appliqué à la première composante ? 1
+V0 = 0.6, C0 = 0.6
+V1 = 0.18, C1 = 2
+Voulez-vous lancer une autre analyse ? (n pour non, autre pour oui.) n
+
+--------------------------------------------------------------------------------------------
+-bash-4.2$ ./tp1 testv08.txt
+Quelle est la vitesse de rotation de la première composante ? 1
+Quel est le couple appliqué à la première composante ? 1
+V0 = 0.5, C0 = 0.5
+V1 = 0.2, C1 = 1.25
+Voulez-vous lancer une autre analyse ? (n pour non, autre pour oui.) n
+
+--------------------------------------------------------------------------------------------
+-bash-4.2$ ./tp1 testv09.txt
+Quelle est la vitesse de rotation de la première composante ? 1
+Quel est le couple appliqué à la première composante ? 1
+V0 = 0.9, C0 = 0.9
+V1 = -0.9, C1 = -0.9
+Voulez-vous lancer une autre analyse ? (n pour non, autre pour oui.) n
+
+--------------------------------------------------------------------------------------------
+-bash-4.2$ ./tp1 testv10.txt
+Quelle est la vitesse de rotation de la première composante ? 1
+Quel est le couple appliqué à la première composante ? 1
+V0 = 0.8, C0 = 0.8
+V1 = 0.8, C1 = 0.8
+Voulez-vous lancer une autre analyse ? (n pour non, autre pour oui.) n
+
+--------------------------------------------------------------------------------------------
+-bash-4.2$ ./tp1 testv11.txt
+Quelle est la vitesse de rotation de la première composante ? 1
+Quel est le couple appliqué à la première composante ? 1
+V0 = 0.7, C0 = 0.7
+V1 = 0.14, C1 = 3.5
+Voulez-vous lancer une autre analyse ? (n pour non, autre pour oui.) n
+
+--------------------------------------------------------------------------------------------
+-bash-4.2$ ./tp1 testv12.txt
+Quelle est la vitesse de rotation de la première composante ? 4
+Quel est le couple appliqué à la première composante ? 12
+V0 = 2.016, C0 = 6.048
+V1 = 0.4032, C1 = 30.24
+V2 = 0.2016, C2 = 60.48
+V3 = 0.2016, C3 = 60.48
+V4 = -0.1344, C4 = -90.72
+Voulez-vous lancer une autre analyse ? (n pour non, autre pour oui.) o
+Quelle est la vitesse de rotation de la première composante ? -4
+Quel est le couple appliqué à la première composante ? -12
+V0 = -2.016, C0 = -6.048
+V1 = -0.4032, C1 = -30.24
+V2 = -0.2016, C2 = -60.48
+V3 = -0.2016, C3 = -60.48
+V4 = 0.1344, C4 = 90.72
+Voulez-vous lancer une autre analyse ? (n pour non, autre pour oui.) o
+Quelle est la vitesse de rotation de la première composante ? 0
+Quel est le couple appliqué à la première composante ? 0
+V0 = 0, C0 = 0
+V1 = 0, C1 = 0
+V2 = 0, C2 = 0
+V3 = 0, C3 = 0
+V4 = -0, C4 = -0
+Voulez-vous lancer une autre analyse ? (n pour non, autre pour oui.) n
+
+--------------------------------------------------------------------------------------------
+-bash-4.2$ ./tp1 testv01.txt
+Quelle est la vitesse de rotation de la première composante ? allo      
+Ce n'est pas une vitesse valide.
+
+--------------------------------------------------------------------------------------------
+-bash-4.2$ ./tp1 testv01.txt
+Quelle est la vitesse de rotation de la première composante ? 1
+Quel est le couple appliqué à la première composante ? allo
+Ce n'est pas un couple valide.
+
+--------------------------------------------------------------------------------------------
+-bash-4.2$ ./tp1 testv01.txt
+Quelle est la vitesse de rotation de la première composante ? -1
+Quel est le couple appliqué à la première composante ? 1
+Les deux valeurs doivent avoir le même signe.
